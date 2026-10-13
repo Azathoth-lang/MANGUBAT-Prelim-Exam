@@ -34,7 +34,7 @@ int main(){
 	scanf("%f", &product3);
 	
 	subtotal = product1 + product2 + product3;
-	average = subtotal / 3.0;
+	average = subtotal / 3.0f;
 		
 	printf("\nORDER RECEIPT\n");
 	printf("==============\n");
